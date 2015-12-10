@@ -1,11 +1,11 @@
 # Game-417-B
 
 
-Conor & Jack
-Madd Scientist Bros!!
-Marketing section
-Target Audience Madd Scientist Bros! will appeal to male gamers ages 7-13 who typically play App Style games
-on mobile devices. Fans of retro style games who enjoy thinking puzzle style games and thinking outside the box will enjoy playing Madd Sci Bros. The game will be rated E for (everyone). The game is suitable for players of all ages. No blood or gore.
+<li>Conor & Jack<li/>
+<li>Madd Scientist Bros!!<li/>
+<li>Marketing section<li/>
+<li>Target Audience <li>
+<li>Madd Scientist Bros! will appeal to male gamers ages 7-13 who typically play App Style games on mobile devices. Fans of retro<li/> <li>style games who enjoy thinking puzzle style games and thinking outside the box will enjoy playing Madd Sci Bros. The game will<li/> be rated E for (everyone). The game is suitable for players of all ages. No blood or gore.
 Platform The game will be built in Unity, and played with Unity player. The game is built for tablets, smart phones, and computers.
 Deadlines
 Week 1 Ends Wed 12/9 - Completed design document for Madd Scientist Bros. Week 2 - Begin work on UI, Character design, Level Layout level 1 Week 3 - Character design, animation and movement. (update design document) Week 4 - Character interaction with levels, enemies, cubes, obstacles, buttons, etc Week 5 - Bring in sound effects, level sound, saw sound, ambience sound etc. Week 6 - Further level design, player health/death. Enemy interactions (update design doc) Week 7 - Fix any issues, Scoreboard, lives tracker, Game Ul Week 8 - Create game screens, pause/loading menus between each level with tips, credits, instruction screen, etc. Week 9 - Build more levels, play test and make adjustments (update design document) Week 10 - Build more levels, play test and make adjustments Week 11 - Final touches on game completed game finished Week 12- Post Mortem 2000-2500 words following up game development process
