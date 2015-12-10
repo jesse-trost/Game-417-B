@@ -14,16 +14,15 @@ Similar games on the market include Portal 2 and Super Meat Boy. While Portal 2 
 Others<li>
 Cost is estimated in the area of $245,000 to be evenly dispersed over the next 12 weeks upon
 each successful milestone completion. However profits are estimated in the hundred million dollar range respectfully.<li>
-
 High Concept<li>
 Laboratory problem solving puzzle game<li>
 Gameplay <li>The 2D game follows Conor and Jack as they race through their massive laboratory room by room trying to reach and stop the nuclear core that has begun to leak. One problem they are not in the same room. Second problem the alarm system has been tripped! Third problem... The leaking radiation has affected some of their science experiments! They must work together in order to survive mutated experiments gone wrong, disarm the security system and stop NUCLEAR MELTDOWNIIIII<li>
 First Minutes<li>
 Players first visual will be the company logo followed by the main game screen. From here players can choose start game, quit game, or instruction screen. After pressing start game button the player will see level 1. Right away you will notice both Conor & Jack are on the screen but they are in separate areas and can not currently reach one another. In the rooms you will see doors and pressure switches and may or may not see enemies and obstacles. It will take amazing team work from Conor and Jack in order to clear each level, and judging from the ticking timer in the middle of the screen you will need to workfast!<li>
-Game Flo<li>
-Once the player has started the game they will be looking at level 1 of the laboratory. They will notice that by using one set of keyboard controls they can move Conor and with another they can move Jack. They will need to move both players in order to successfully clear the level. Players will try to open the door to the next level and disarm the alarm before time runs out.
+Game Flow<li>
+Once the player has started the game they will be looking at level 1 of the laboratory. They will notice that by using one set of keyboard controls they can move Conor and with another they can move Jack. They will need to move both players in order to successfully clear the level. Players will try to open the door to the next level and disarm the alarm before time runs out.<li>
 Victory conditions<li>
-If a player or player(s) are able to clear all levels then they will succeed in disarming the alarm! Stopping the leaking radiation!!! And safely eliminating contaminated experiments. Thus regaining control over the laboratory. This will happen in a step by step process of clearing each level.
+If a player or player(s) are able to clear all levels then they will succeed in disarming the alarm! Stopping the leaking radiation!!! And safely eliminating contaminated experiments. Thus regaining control over the laboratory. This will happen in a step by step process of clearing each level.<li>
 number of players<li>
 This is a 1–2 player game. A single player can control both characters one at a time or two players can work together. Players would need to be sitting next to one another and utilize the same keyboard in order to play together.<li>
 Art<li>
