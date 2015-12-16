@@ -1,0 +1,66 @@
+
+Conor & Jack
+Madd Scientist Bros!!
+
+Marketing section
+Genre
+2D Laboratory Adventure puzzle game
+Target Audience
+ Madd Scientist Bros! will appeal to male gamers ages 7-13 who typically play App Style games
+on mobile devices. Fans of retro style games who enjoy thinking puzzle style games and thinking outside the box will enjoy playing Madd Sci Bros. The game will be rated E for (everyone). The game is suitable for players of all ages. No blood or gore.
+Platform 
+The game will be built using Unity and Adobe products. The game is being created for Sony, Microsoft, and Wii U platforms.
+Time Line Goals
+By 12/16 Milestone goal to have most of my level design elements roughly completed. By that I mean I will have saved prefabs of all level elements and will have began work on both sprite sheets for main characters Jack and Connor. I have level 1 partially conceptually built now. It will need editing as character movement and other elements are implemented and will grow along the way. 
+By 12/23 Milestone goal to have my main characters fully animated and scripted in regards to movement and death. This means moveing left, moving right, jumping, moveing cubes having cubes activate doors. This includes dying from radioactive lava, saw blades, spikes, and enemies.
+By 12/30 Milestone goal is to bring in sound, this week I want to all elements of level sound. This would be enviornment sound effects, saw blade sound effects, jumping, running, pushing cube, alarm sound, doors open sound, alarm disarmeds sounds. Basically I want to spend the week putting sound where it is needed within the level. I will also utilize this time to fix any bugs or problems with prior goals if any not working and review/edit design document. (Update Design Doc)
+By 1/6 Milestone goal is to have player lives,  deaths,  and respawning, fully functional. I will also utilize this week for further level design and hope to have 2-3 stages mocked up. 
+By 1/13 Milestone goal is to have all main game screens finished and working. This will include the Main Menu, Instruction Screen, In Game Pause Function, Game Over screen, credits, rating screen, etc.
+By 1/20 Milestone goal. This week is a big week. By this time all screens should be functional and the game should be working. In this phase many adjustments will be made through play testing. Levels will be built, adjusted, and readjusted. Any problem areas should be addressed and resolved. If something isn't functioning at this point I may need to readress how I am solving that problem. (Update Design Doc)
+By 1/27 Milestone goal is to have 5-7 or more fully completed levels. This week should involve further fine tuning and adjustments. Ask what works/ what doesn't and make the necessary adjustments. Remember that difficulty needs to increase throughout the game in order to keep the player in the "loop". Each level needs to offer a different way of combining the obstacles.
+Competitors
+Similar games on the market include Portal 2 and Super Meat Boy. While Portal 2 may be in a completely different perspective and class all its own it too is a stage clearing puzzle game. This game is designed to frustrate you and make you think outside the box.
+Others
+Cost to myself is estimated in the area of $30.00 per month for software, and an estimated 150-200 man hours depending on how smoothly the process goes. 
+High Concept
+Laboratory problem solving puzzle game
+Gameplay My 2D game follows Conor and Jack as they race through their massive laboratory room by room trying to reach and stop the nuclear core that has begun to leak. One problem they are not in the same room. Second problem the alarm system has been tripped! Third problem... The leaking radiation has affected some of their science experiments! They must work together in order to survive mutated experiments gone wrong, disarm the security system and stop NUCLEAR MELTDOWNIIIII
+First Minutes
+Players first visual will be the company logo followed by the main game screen. From here players can choose start game, quit game, or instruction screen. After pressing start game button the player will see level 1. Right away you will notice both Conor & Jack are on the screen but they are in separate areas and can not currently reach one another. In the rooms you will see doors and pressure switches and may or may not see enemies and obstacles. It will take amazing team work from Conor and Jack in order to clear each level, and judging from the ticking timer in the middle of the screen you will need to workfast!
+Game Flo
+Once the player has started the game they will be looking at level 1 of the laboratory. They will notice that by using one set of keyboard controls they can move Conor and with another they can move Jack. They will need to move both players in order to successfully clear the level. Players will try to open the door to the next level and disarm the alarm before time runs out.
+Victory conditions
+If a player or player(s) are able to clear all levels then they will succeed in disarming the alarm! Stopping the leaking radiation!!! And safely eliminating contaminated experiments. Thus regaining control over the laboratory. This will happen in a step by step process of clearing each level.
+Number of players
+This is a 1–2 player game. A single player can control both characters one at a time or two players can work together. Players would need to be sitting next to one another and utilize the same keyboard in order to play together.
+Art
+The art behind the game will be two dimensional in appearance. It will appear like a laboratory with metal doors, metal background, and alarm system spikes, radioactive waste etc. Conor and jack will be 2 dimensional sprites.
+Technical Aspects & AI
+Player controller script for both players can be the same except for buttons that move them. Player interaction with security devices and radioactive waste (saws, spikes, ooze) Player interaction with boxes that will activate switches and open doors. Player interaction with mutated enemies (dieing and destroying them). Level animation of obastacles like saw, ooze, etc. 
+killing players
+killing enemies
+respawning build 10 problem solving levels and have timer that is reasonable to complete levels animation of what happens when time runs out and restart level with one less life integrate extra lives
+Graphics
+2 Dimensional laboratory and characters. Will add concept art after week 3
+HUDs
+The HUD will show the player what level they are on, how many enemies remain, how much time is left before the alarm goes off, and how many player lives they have. Visually players will know if alarms are disabled by alarms and also by sound. Players will know doors are open when they are visually open. I may not show remaining enemy count as this can easily be visually seen in the level. One thing to remember is when one player dies then both players die. One life per Conor and Jack. I will have to assess if level completion with one player should be possible if the other player has done everything necessary prior to dieing. I have to decide if blocks that will be used for pushing down buttons that open doors and disable alarms will be able to be destroyed by obstacles (falling into saw or lava) etc. If the block disapears will a new one reappear in its original spawn or will you be screwed and unable to complete the level forcing you to jump into an obstacle to your death. This will depend greatly on level difficulty and will develope through play testing. 
+Sounds
+Ambience music! Alarm sound
+Saw blade sound??
+Green goop sound???
+Door open sound
+Alarm off level clear sound!!!
+Death sound
+Ambience for main screen
+Ambience for instruction screen Ambience for ingame pause/between level screen
+Controls
+Conor
+A = Move left D = Move right W = Jump
+Jack
+J = Move left L= Move right | = Jump
+Enemies
+Obstacles (Green ooze) & Saw Blades.
+Mutated bad guys
+One Red and one yellow different in appearance slightly similar movements. Blob like and slimy. They just move around in a patrolling like fashion. Can be killed by jumping on their heads? or maybe they can not be killed and you have to be able to move around them. (This is a huge deal) It will need to be figured out by 12/23 or so. 
+Game Rating
+E for Everyone
